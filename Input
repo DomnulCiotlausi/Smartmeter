@@ -1,0 +1,17 @@
+House:
+ElectricMeter:5367,0,false
+WaterMeter:548,0,false
+Kettle:25,0,1
+ElectricCooker:5,0,0
+Boiler:1,1,0
+Refrigerator:1,0,0
+WashingMachine:3,0,2
+Person:Dave,35,M
+DoWashing:40
+Shower:28
+Cook:30
+Person:Fiona,34,F
+Shower:48
+TurnOnTV:33
+TurnOffTV:36
+Cook:45
